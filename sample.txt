@@ -1,2 +1,4 @@
 Hello World
 This is for my cs246 class.
+
+Making some changes to this txt file. 
