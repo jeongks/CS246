@@ -1,4 +1,3 @@
-Hello World
-This is for my cs246 class.
+Hello World!
 
-Making some changes to this txt file. 
+Not saying Goodbye this time! 
